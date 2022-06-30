@@ -11,7 +11,8 @@
         "dist/*.d.ts"
     ],
     "scripts": {
-        "build": "tsc"
+        "build": "tsc",
+        "format": "prettier --write ."
     },
     "license": "MIT",
     "peerDependencies": {
