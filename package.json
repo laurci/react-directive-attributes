@@ -1,13 +1,10 @@
 {
     "name": "react-directive-attributes",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "author": "Laurentiu Ciobanu",
-    "repository": {
-        "type": "git",
-        "directory": "https://github.com/laurci/react-directive-attributes"
-    },
+    "repository": "https://github.com/laurci/react-directive-attributes",
     "files": [
         "README.md",
         "dist/*.js",
