@@ -1,6 +1,10 @@
 size: small
 description: |
-  This project is inspired by Angular's attribute directive. You can check it out here. TLDR: it's a cool way to add behavior to a component from the markup.
+  This project aims to provide React developers with a similar functionality as Angular's attribute directive. With this package, users can create wrapper components and bind them to attributes, making it easier than ever to add behavior to a component from the markup.
+
+  React is a popular and widely-used JavaScript library for building user interfaces. React's component-based architecture makes it easy to create reusable and modular UI elements. However, one downside of React is that it can be challenging to add behavior to components from the markup. With the help of this package, developers can easily add behavior to their components without having to write additional code.
+
+  In summary, this project provides React developers with a more straightforward way to add behavior to components from the markup, similar to Angular's attribute directive. This package makes it easier than ever to create reusable and modular UI elements with added functionality.
 tags:
   - angular
   - react
