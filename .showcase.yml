@@ -1,0 +1,7 @@
+size: small
+description: |
+  This project is inspired by Angular's attribute directive. You can check it out here. TLDR: it's a cool way to add behavior to a component from the markup.
+tags:
+  - angular
+  - react
+  - directives
